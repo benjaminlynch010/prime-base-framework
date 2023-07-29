@@ -1,5 +1,4 @@
 // EVENT ---> STATE ---> RENDER
-
 $(document).ready(onReady);
 
 function onReady() {
